@@ -3,12 +3,13 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="Scrollama: Sticky Overlay Example" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="styles.scss" />
     <style>
-      html{
+      
+      html, body{
         max-width:100vw;
+        width:100vw;
       }
       #scrolly {
         position: relative;
@@ -60,22 +61,25 @@
       }
 
       .step:last-child {
-        margin-bottom:20vh;
+        margin-bottom:30vh;
       }
       .step p {
         text-align: center;
         padding: 1rem;
         font-size: 1.5rem;
       }
-
-      video{
-        width:50vw;
-        margin-left:-10vw;
+      
+      #video-step{
       }
 
+      video{
+        max-width:50vw;
+        margin-left:-10vw;
+      }
       img{
         max-width:100vw;
       }
+      
     </style>
   </head>
 
@@ -96,16 +100,18 @@
           <div class="step" data-step="3">
             <p>Then something unexpected happened.</p>
           </div>
-          <div class="step" data-step="4" data-id="scroll-video" onClick="mutevid(event)">
-            <p>Click video to play/pause</p>
-            <video>
+          <div class="step" data-step="4">
+            <p>Click to unmute video.</p>
+          </div>
+          <div class="step" id="video-step" data-step="5" data-id="scroll-video">
+            <video autoplay muted>
               <source src="./Valentini_Applause.mp4" type="video/mp4">
             </video>
           </div>
-          <div class="step" data-step="5">
+          <div class="step" data-step="6">
             <p>It was a moment that illustrated the unique position of the College dean in the Columbia ecosystem, as its most public-facing advocate. But the dean's is a job that may be changing—to the praise of some, and dismay of others—along with the curricular structure of the Faculty of Arts and Sciences as a whole.</p>
           </div>
-          <div class="step" data-step="6">
+          <div class="step" data-step="7">
             <p>It's the latest chapter in a saga that has been writing itself for decades, often in flurries of controversy several years apart.</p>
           </div>
         </article>
@@ -115,63 +121,8 @@
     <!-- <div class='debug'></div> -->
     <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
     <script src="https://unpkg.com/scrollama"></script>
-    <script>
-      // using d3 for convenience
-      var main = document.querySelector("main");
-      var scrolly = main.querySelector("#scrolly");
-      var sticky = scrolly.querySelector(".sticky-thing");
-      var article = scrolly.querySelector("article");
-      var steps = article.querySelectorAll(".step");
-
-      // initialize the scrollama
-      var scroller = scrollama();
-
-      // scrollama event handlers
-      function handleStepEnter(response) {
-        // response = { element, direction, index }
-        var el = response.element;
-        //console.log(el)
-        // remove is-active from all steps
-        // then add is-active to this step
-        if(el.dataset.id=="scroll-video"){
-        }
-        else{
-            var video = article.querySelector("video");
-            video.pause();
-        }
-       
-      }
-      function mutevid(response){
-        var video = article.querySelector("video");
-        var elm = response.element;
-        console.log(response.element);
-            if(video.paused){
-            video.play();
-        }
-            else{
-            video.pause();
-            }
-        
-      }
-      function init() {
-        // 2. setup the scroller passing options
-        // 		this will also initialize trigger observations
-        // 3. bind scrollama event handlers (this can be chained like below)
-        scroller
-          .setup({
-            step: "#scrolly article .step",
-            offset: 0.2,
-            debug: false
-          })
-          .onStepEnter(handleStepEnter);
-         
-        // setup resize event
-        //window.addEventListener("click",mutevid)
-        window.addEventListener("resize", scroller.resize);
-      }
-
-      // kick things off
-      init();
+    <script src="./scripts/videoscrolly.js"></script>
+     
     </script>
   </body>
 </html>
