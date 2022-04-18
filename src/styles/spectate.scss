@@ -90,7 +90,19 @@ b {
   font-size: 19px;
   line-height: 1.63;
 }
+.graphic-container {
+  position: sticky;
+  top: 0;
+}
 
+.steps-container {
+  margin-top: -50vh;
+  z-index: 9;
+  
+  p {
+    padding-bottom: 80vh;
+  }
+}
 .subhed {
   margin: 40px auto 20px;
   font-family: $georgia;
@@ -246,6 +258,7 @@ header {
   display: flex;
   width: 100%;
   height: $navbar-height;
+  top:0;
   position: fixed;
   background-color: #fff;
   z-index: 1000;
@@ -477,6 +490,10 @@ header {
 
 .graphic {
   margin: 30px auto;
+}
+
+#scrollyviz{
+  margin-top:0px;
 }
 
 .story-top .graphic:only-child {

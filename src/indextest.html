@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Scrollama: Sticky Overlay Example" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.scss" />
+    <style>
+      #scrolly {
+        position: relative;
+        background-color: #f3f3f3;
+        padding: 1rem;
+      }
+
+      article {
+        position: relative;
+        padding: 0;
+        max-width: 20rem;
+        margin: 0 auto;
+      }
+
+      .sticky-thing {
+        position: -webkit-sticky;
+        position: sticky;
+        left: 0;
+        width: 100%;
+        margin: 0;
+        background-color: #8a8a8a;
+        z-index: 0;
+        top: 12.5vh;
+        height: 75vh;
+        /* Center everything inside */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .sticky-thing p {
+        font-size: 8rem;
+        font-weight: 900;
+        color: #fff;
+      }
+
+      .step {
+        margin: 0 auto 2rem auto;
+        color: #fff;
+        background-color: rgba(0, 0, 0, 0.1);
+      }
+
+      .step:last-child {
+        margin-bottom: 0;
+      }
+
+      .step.is-active p {
+        background-color: goldenrod;
+        color: #3b3b3b;
+      }
+
+      .step p {
+        text-align: center;
+        padding: 1rem;
+        font-size: 1.5rem;
+        background-color: #3b3b3b;
+      }
+
+      video{
+        width:50vw;
+        margin-left:-15vw;
+      }
+    </style>
+  </head>
+
+  <body>
+
+      <section id="scrolly">
+        <div class="sticky-thing">
+          <p>0</p>
+        </div>
+
+        <article>
+          <div class="step" data-step="1">
+            <p>Last month, University President Lee Bollinger took the stage at the annual John Jay Awards Dinner to address students, alumni, and faculty of Columbia College.</p>
+          </div>
+          <div class="step" data-step="2" data-id="scroll-video">
+            <p>He began his remarks by rattling off a few quick thank-yous, one of which went to outgoing dean of Columbia College, James Valentini.</p>
+          </div>
+          <div class="step" data-step="3">
+            <p>Then something unexpected happened.</p>
+          </div>
+          <div class="step" data-step="4" data-id="scroll-video"></div>
+            <video id = "vid" playsinline muted="false">
+              <source src="./JohnJayDinnerVO.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="step" data-step="5">
+            <p>It was a moment that illustrated the unique position of the College dean in the Columbia ecosystem, as its most public-facing advocate. But the dean’s is a job that may be changing—to the praise of some, and dismay of others—along with the curricular structure of the Faculty of Arts and Sciences as a whole.</p>
+          </div>
+          <div class="step" data-step="6">
+            <p>It’s the latest chapter in a saga that has been writing itself for decades, often in flurries of controversy several years apart.</p>
+          </div>
+        </article>
+      </section>
+
+    <!-- <div class='debug'></div> -->
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+    <script>
+      // using d3 for convenience
+      var main = document.querySelector("main");
+      var scrolly = main.querySelector("#scrolly");
+      var sticky = scrolly.querySelector(".sticky-thing");
+      var article = scrolly.querySelector("article");
+      var steps = article.querySelectorAll(".step");
+
+      // initialize the scrollama
+      var scroller = scrollama();
+
+      // scrollama event handlers
+      function handleStepEnter(response) {
+        // response = { element, direction, index }
+        var el = response.element;
+        console.log(el.dataset.id)
+        console.log("yuh")
+        // remove is-active from all steps
+        // then add is-active to this step
+        steps.forEach(step => step.classList.remove('is-active'));
+        el.classList.add('is-active');
+
+        // update graphic based on step
+        if(el.dataset.id=="scroll-video"){
+          var video = article.querySelector("video")
+          video.play();
+          video.muted = false;
+        }
+        else{
+          var video = article.querySelector("video")
+          video.pause();
+        }
+        sticky.querySelector("p").innerText = el.dataset.step;
+      }
+
+      function init() {
+        // 2. setup the scroller passing options
+        // 		this will also initialize trigger observations
+        // 3. bind scrollama event handlers (this can be chained like below)
+        scroller
+          .setup({
+            step: "#scrolly article .step",
+            offset: 0.2,
+            debug: true
+          })
+          .onStepEnter(handleStepEnter);
+
+        // setup resize event
+        window.addEventListener("resize", scroller.resize);
+      }
+
+      // kick things off
+      init();
+    </script>
+  </body>
+</html>
