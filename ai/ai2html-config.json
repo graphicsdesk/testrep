@@ -3,6 +3,12 @@
   "image_output_path": "../assets/",
   "fonts": [
     {
+      "aifont": "PlayfairDisplay-Regular",
+      "family": "Playfair Display, serif",
+      "weight": "400",
+      "style": ""
+    },
+    {
       "aifont": "Roboto-Regular",
       "family": "Roboto,arial,helvetica,sans-serif",
       "weight": "",
