@@ -20,6 +20,38 @@
             "value": "Bollinger’s Task Force on the Relationship of the Arts and Sciences and the College, which was formed in September and has met virtually several times a month, has released a report recommending significant changes to the flow of administrative power."
           },
           {
+            "type": "image",
+            "value": {
+              "width": "50vw",
+              "asset": "bollinger.png",
+              "credit": "Michael Edmonson"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50vw",
+              "asset": "deantini.png",
+              "credit": "Caitlin Buckley"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50vw",
+              "asset": "hungerford.png",
+              "credit": "Columbia University"
+            }
+          },
+          {
+            "type": "illustration",
+            "value": {
+              "width": "50vw",
+              "asset": "IMG_4100.jpg",
+              "credit": "Tina Wang"
+            }
+          },
+          {
             "type": "text",
             "value": "SCROLLY OF DOCS"
           },
@@ -46,13 +78,13 @@
           {
             "type": "graphic",
             "value": {
-              "asset": "documentshighlightededit.html"
+              "asset": "COIdone.html"
             }
           },
           {
             "type": "graphic",
             "value": {
-              "asset": ""
+              "asset": "documentshighlightededit.html"
             }
           }
         ],

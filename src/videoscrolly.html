@@ -57,7 +57,10 @@
 
       .step:first-child {
         margin-top: 0vh;
+        margin-bottom: 10vh;
       }
+      
+      
 
       .step:last-child {
         margin-bottom:0vh;
@@ -74,12 +77,18 @@
 
       video{
         max-width:99vw;
-        margin-left:-34.5vw;
+        max-height:100vh;
+        margin-left:-27.5vw;
       }
       #scrolly-background{
         width:100%;
         height:130vh;
             }
+      @media screen and (max-width: 600px) {
+        .step p{
+             font-size: 18px;
+        }
+    }     
       
     </style>
   </head>
@@ -88,7 +97,7 @@
     <main>
       <section id="scrolly">
         <div class="sticky-thing">
-            <img id="scrolly-background" src="../assets/LowHamilton2.jpg">
+            <img id="scrolly-background" src="../assets/LowPhoto.jpg">
         </div>
         <article>
           <div class="step" data-step="1">
@@ -105,12 +114,12 @@
           </div>
           <div class="step" id="video-step" data-step="5" data-id="scroll-video" style="margin-top:10vh;">
             <video autoplay loop muted>
-              <source src="./Valentini_Applause.mp4" type="video/mp4">
+              <source src="./ZACHDEANTINIEDIT4.mp4" type="video/mp4">
             </video>
             <p style="margin-top: 0vw; font-size:18px;">Video by Julian Silva-Forbes</p>
           </div>
           <div class="step" data-step="6">
-            <p>It was a moment that illustrated the unique position of the College dean in the Columbia ecosystem, as its most public-facing advocate. But the dean's is a job that may be changing—to the praise of some, and dismay of others—along with the curricular structure of the Faculty of Arts and Sciences as a whole.</p>
+            <p>It was a moment that illustrated the unique position of the college dean in the Columbia ecosystem, as its most public-facing advocate. But the dean's is a job that may be changing—to the praise of some, and dismay of others—along with the curricular structure of the Faculty of Arts and Sciences as a whole.</p>
           </div>
           <div class="step" data-step="7">
             <p>It's the latest chapter in a saga that has been writing itself for decades, often in flurries of controversy several years apart.</p>

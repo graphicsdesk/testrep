@@ -435,11 +435,14 @@ header {
   height: 20px;
 }
 
-.image {
+.image-partial {
   margin: 30px auto 25px auto;
 
   img {
-    width: 100%;
+    display:block;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .image-caption-text {
@@ -449,7 +452,7 @@ header {
     margin: 7px 0 0 0;
     padding: 0 $gbody-padding / 2;
     line-height: 1.3;
-
+    margin-left:25%;
     .image-credit {
       color: #999;
     }

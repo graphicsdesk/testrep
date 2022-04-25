@@ -55,9 +55,15 @@
           <case n="'image'">
             <include src="partials/image.html"></include>
           </case>
+          <case n="'illustration'">
+            <include src="partials/illustration.html"></include>
+          </case>
           <case n="'graphic'">
               <if condition="item.value.asset === 'documentshighlightededit.html'">
                 <include src="documentshighlightededit.html"></include>
+              </if>
+              <if condition="item.value.asset === 'COIdone.html'">
+                <include src="COIdone.html"></include>
               </if>
             </div>
           </case>
