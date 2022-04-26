@@ -17,31 +17,79 @@
         "body": [
           {
             "type": "text",
-            "value": "Bollinger’s Task Force on the Relationship of the Arts and Sciences and the College, which was formed in September and has met virtually several times a month, has released a report recommending significant changes to the flow of administrative power."
+            "value": "When Columbia College students walk across the stage to graduate, they are handed a diploma that will be part of the rest of their lives, proudly displayed in their offices or homes. But the diploma is not the only thing that stays with them after graduation. In some ways, the people who signed it do, too."
           },
           {
-            "type": "image",
-            "value": {
-              "width": "50vw",
-              "asset": "bollinger.png",
-              "credit": "Michael Edmonson"
-            }
+            "type": "text",
+            "value": "One of those people—the University president—is not someone most students rub elbows with much, at least traditionally. Widely acknowledged to be the face of the University, the president can also be inaccessible. That’s where the dean comes in."
           },
           {
-            "type": "image",
-            "value": {
-              "width": "50vw",
-              "asset": "deantini.png",
-              "credit": "Caitlin Buckley"
-            }
+            "type": "text",
+            "value": "From Class Day to the John Jay Awards Dinner, the College dean has long enjoyed a particularly intimate relationship with students and alumni, for better or worse. This dynamic gives the dean unique powers, both externally and internally, when it comes to fundraising and setting academic priorities. But it also contributes to problems and politicking within the central administration and faculty."
           },
           {
-            "type": "image",
-            "value": {
-              "width": "50vw",
-              "asset": "hungerford.png",
-              "credit": "Columbia University"
-            }
+            "type": "text",
+            "value": "These internal politics have reached a boiling point in recent months, and the potential fallout could have major implications. Who holds power and how their priorities inform the way they wield it could have resounding effects on the future of the Columbia College experience, from financial aid to admissions decisions, and from what kind of classes are available to which faculty teach them. The way the Faculty of Arts and Sciences—the organizational unit that comprises the College, the School of General Studies, the Graduate School of Arts and Sciences, the School of Professional Studies, and the School of the Arts—is restructured could influence what kind of experience Columbia will offer for years to come."
+          },
+          {
+            "type": "text",
+            "value": "In an <a href=\"https://www.columbiaspectator.com/news/2022/04/21/in-interview-after-announcing-resignation-president-bollinger-reflects-on-columbias-past-and-future/\">interview </a>with Spectator after announcing his plans to step down, University President Lee Bollinger said “one of the last things” he would have wanted to do during his final year is spend “months and months” focusing on how to restructure the relationship between FAS and the College. Yet, he said it would be unlikely that his successor would be as “intimately familiar” with what he called a “potentially difficult” issue."
+          },
+          {
+            "type": "text",
+            "value": "“It’s an area that has deep passions [and] a lot of misperceptions,” Bollinger said about restructuring FAS. “It has a tendency to erupt in fears and criticisms, even though they’re not warranted. I was not eager to take this on, and yet, I felt it was really important for the future that I do so.”"
+          },
+          {
+            "type": "text",
+            "value": "A task force of FAS faculty members, University administrators, University Trustees, and Columbia College alumni appointed by Bollinger have met several times each month since September to discuss potential changes to the relationship between the College and Arts and Sciences."
+          },
+          {
+            "type": "text",
+            "value": "Its work has turned into the most significant attempt in a decade to address long-standing political and institutional tensions at Columbia by reorganizing power in order to bring the College further into the fold of the University. The task force could also potentially accomplish the goal of increasing student and alumni identification with FAS. Because a significant portion of donors to the University are College alumni, donations that reach FAS are tied to the College community, and therefore its dean, in a notable way. FAS as a whole lacks a sense of community and formal alumni network that drives successful alumni engagement and direct fundraising in comparison to the schools within it, notably the College, which leads fundraising among the five schools by a vast margin."
+          },
+          {
+            "type": "text",
+            "value": "The College has been the top performing school for every one of the University’s annual Giving Days. Aside from the annual event, it participates in the University’s “<a href=\"https://giving.columbia.edu/campaign-impact\">The Columbia Commitment</a>” fundraising initiative through its “Core to Commencement” fundraising campaign. Since its start in 2015, <a href=\"https://www.college.columbia.edu/campaign/progress\">“Core to Commencement”</a> has raised $707 million for the College. Other FAS schools participating in “The Columbia Commitment” have raised far less, with the second-closest, General Studies, bringing in only $44 million since 2016, as of November. FAS leaders have long sought to improve the institution’s community identity to more acutely advance the priorities of the unit as a whole."
+          },
+          {
+            "type": "text",
+            "value": "The task force’s final <a href=\"https://president.columbia.edu/content/report-task-force-relationship-arts-sciences-and-college\">report</a>, quietly released by the president’s office on April 8, includes a proposal to establish a new Committee on Instruction, chaired by a senior faculty member, that would oversee major curricular decisions across schools and departments within FAS. The recommendations, if approved by faculty and the trustees, would also shift the power dynamic between the executive vice president of Arts and Sciences, which would be renamed “dean of Arts and Sciences,” and the dean of Columbia College by having them share authority over certain academic, student, and alumni affairs."
+          },
+          {
+            "type": "text",
+            "value": "“When you become a student, and we have convocation, you hear from me and you hear from the dean of the College, but you don’t hear from the EVP for Arts and Sciences,” Bollinger said. “You should.”"
+          },
+          {
+            "type": "text",
+            "value": "The report has evoked strong reactions from across the Columbia community and shed new light on political fault lines that have long existed between those who prefer to think about FAS in a more centralized way and those who have a greater allegiance to the schools who reside inside it."
+          },
+          {
+            "type": "text",
+            "value": "Polarization has increased among the factions amid an ongoing inquiry into undergraduate expansion and Columbia College Dean James Valentini’s <a href=\"https://www.columbiaspectator.com/news/2021/09/23/valentini-to-step-down-as-dean-of-columbia-college/\">sudden exit</a> during friction between him, Bollinger, and Amy Hungerford, the EVP of Arts and Sciences and dean of FAS. Valentini’s exit is reminiscent of the <a href=\"https://web.archive.org/web/20120510005324/http://www.columbiaspectator.com/2011/08/23/consultants-recommendations-core-moody-adams-resignation\">public resignation</a> of former College Dean Michele Moody-Adams in 2011, prompted by a controversial report from the private management consulting firm McKinsey and Company that recommended further centralization in FAS. Those recommendations were never formally adopted, and a new FAS governing body—the Executive Committee, composed of the EVP and deans of the College and GSAS with input from the provost—was created the following year to ease tensions."
+          },
+          {
+            "type": "text",
+            "value": "A decade later, Bollinger, who last week announced that he will step down as University president in 2023, is picking up where the report left off."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2022/04/21/in-interview-after-announcing-resignation-president-bollinger-reflects-on-columbias-past-and-future/\"><i>In interview after announcing resignation, President Bollinger reflects on Columbia’s past and future</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Although many continue to agree on the College’s place as the “crown jewel” of the University, administrators have long differed fundamentally in their perception of how it should fit into the FASArts and Sciences and whether a more centralized structure would better serve faculty, undergraduates, and graduate students."
+          },
+          {
+            "type": "text",
+            "value": "It’s a tension that has long puzzled administrators in FAS. Some argue it’s a problem that cannot be solved, only managed. At its core, it is a question of how to bend an inflexible institution to address a nuanced problem—if that is even possible.."
+          },
+          {
+            "type": "text",
+            "value": "This story relies on interviews with nearly two dozen people, including eight members of the task force and 15 people who have either closely followed the work of the task force or could speak about the restructuring effort through the lens of their institutional knowledge."
+          },
+          {
+            "type": "text",
+            "value": "“It is an historic issue at Columbia, for at least the 30 some years that I have been here,” Jean Howard, an English professor and member of the task force, said. “There are these silly divides, disconnects, that are making us not be as effective as an institution as we could be.”"
           },
           {
             "type": "illustration",
@@ -53,27 +101,149 @@
           },
           {
             "type": "text",
-            "value": "SCROLLY OF DOCS"
+            "value": "<b>The debate</b>"
           },
           {
             "type": "text",
-            "value": "THREE PHOTOS"
+            "value": "Under Bollinger’s leadership, FAS has struggled under a perennial state of austerity caused by policies that have reallocated funds toward other initiatives, particularly the Manhattanville expansion. Past and current EVPs have consequently resorted to creative and sometimes controversial means to cover the costs of major expenses, such as the central administration’s annual, ever-rising “common cost” tax of each budgetary unit within the University. Additionally, the College’s commitment to meeting 100 percent of demonstrated financial need continues to be a large expense to fund. Revenue-increasing strategies have in the past included expanding <a href=\"https://www.columbiaspectator.com/news/2017/05/01/senate-report-questions-spss-impact-on-universitys-reputation/\">master’s</a> <a href=\"https://www.columbiaspectator.com/news/2021/08/27/columbias-largest-high-school-program-raked-in-20-million-during-the-pandemic-but-what-are-students-paying-for/\">programs</a> in SPS. An <a href=\"https://www.columbiaspectator.com/news/2022/03/10/marred-by-politics-factions-in-expansion-inquiry-see-different-columbias/\">inquiry</a> into potentially expanding the undergraduate student body, which could draw in more tuition dollars, is also underway."
           },
           {
             "type": "text",
-            "value": "* Bolliger"
+            "value": "<a href=\"https://www.columbiaspectator.com/archives/lead-2016-05-05-unfunded-mandate-columbia-college-arts-and-sciences-and-bollinger-era.html\"><i>[Read more: Unfunded Mandate: Columbia College, Arts and Sciences, and the Bollinger Era</i></a><a href=\"https://www.columbiaspectator.com/archives/lead-2016-05-05-unfunded-mandate-columbia-college-arts-and-sciences-and-bollinger-era.html\"><b><i>]</i></b></a>"
           },
           {
             "type": "text",
-            "value": "* Deantini"
+            "value": "Meanwhile, the Business School, Law School, and the Vagelos College of Physicians and Surgeons have thrived financially, notwithstanding the pandemic, while Bollinger has set his sights on other projects such as the Manhattanville expansion and the <a href=\"https://www.columbiaspectator.com/news/2020/02/06/donors-havent-given-to-columbias-climate-research-columbia-says-the-climate-school-will-change-that/\">creation</a> of a first-of-its-kind Climate School."
           },
           {
             "type": "text",
-            "value": "* Hungerford"
+            "value": "Bollinger told Spectator that the central goal of the task force’s recommendations is to have greater faculty involvement in alumni relations and curricular oversight. He said a more empowered and visible EVP––or dean of Arts and Sciences––would be able to better represent and serve the interests of the faculty as a whole rather than of one individual school. He disagreed with the notion that the recommendations may be a diminution in the role of the College dean, calling it instead an “elevation of the role of the faculty” who are represented by the EVP."
           },
           {
             "type": "text",
-            "value": "ONE ILLO"
+            "value": "“There’s been a serious deficit of faculty involvement with the alums of the College and capacity to fundraise on behalf of broad Arts and Sciences faculty department interests, to communicate as faculty and students over the curriculum as a whole,” he said. “That, to me, was important to address.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50vw",
+              "asset": "bollinger.png",
+              "credit": "Michael Edmonson"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Those who support the proposals set forth in the report characterize them as reform, not revolution."
+          },
+          {
+            "type": "text",
+            "value": "Andreas Wimmer, a professor of sociology and political philosophy and former chair of the Policy and Planning Committee, the FAS group responsible for faculty governance and with the most administrative influence, said the task force originally had “broader ambitions.” He called it a “relatively modest” compromise in terms of its achievements in organizational structure. He believes the proposals do not restructure the relationship between the EVP and the dean of the College, but instead leave the relationship “largely as it is now.”"
+          },
+          {
+            "type": "text",
+            "value": "“Everybody can … take a deep exhale,” he said in reference to the panic from some corners of the University since the recommendations were released."
+          },
+          {
+            "type": "text",
+            "value": "Critics view the report as proposing a notable reduction in the power of the College dean and say meaningful collaboration can only happen in a room in which two people have equal status."
+          },
+          {
+            "type": "text",
+            "value": "“This will diminish the ability of the dean of Columbia College to promote the success of the students and faculty of Columbia College,” Valentini said in an interview with Spectator."
+          },
+          {
+            "type": "text",
+            "value": "The continuing conflict highlights what the report leaves unsaid. “Enhanced collaboration” is the first step in resolving what some see as a long-standing pain point—the dean’s prioritization of the College’s well-being and the EVP’s duty to cater to the entire FAS body and not just the College. Supporters of the current construction view a uniquely-empowered dean as vital, while those who are more focused on FAS say a more collaborative and coordinated structure makes more sense."
+          },
+          {
+            "type": "text",
+            "value": "“It is kind of crazy that the [EVP] of Arts and Sciences who hires faculty, pays our salaries, makes all those decisions with departments, and has to control the budget, is not centrally in most curricular conversations—just as it is crazy that the dean of the College, who’s responsible for so much of the well-being of our undergraduates, is not in more regular conversation with all faculty in faculty meetings and chairs meetings,” Howard said. “There are so many places where there are disconnects in this institution.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>The report</b>"
+          },
+          {
+            "type": "text",
+            "value": "After Bollinger announced the creation of the task force in September, the 21-person group met over Zoom about once every two weeks. Because members of the task force came in with differing levels of knowledge about the history of the relationship between FAS and the College, the process began with a crash course. Some early meetings included presentations on budgetary structure, which was characterized in one meeting as “dysfunctional,” and developmental challenges colored by a contested assumption from advocates for centralization that the College has underperformed in fundraising, despite leading its counterparts within FAS."
+          },
+          {
+            "type": "text",
+            "value": "At the outset of the group’s work, the president solicited opinions from a range of stakeholders. Submissions came from current and former EVPs and College deans, the current senior EVP, alumni, and others—all of whom sent their sometimes lengthy insight to the task force in writing. The documents ranged widely in their perspectives about the direction in which to take the task force."
+          },
+          {
+            "type": "text",
+            "value": "“We all came from our corners,” Eugenia Lean, a professor of East Asian languages and cultures and a task force member, said."
+          },
+          {
+            "type": "text",
+            "value": "For over half a year, the work of the task force remained completely confidential."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "documentshighlightededit.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>“Enhanced collaboration”</b>"
+          },
+          {
+            "type": "text",
+            "value": "Supporters of the recommendations say the proposal would not diminish the authority of the dean of the College. The final proposal would allow the College dean to maintain control over most aspects of student affairs, including admissions, financial aid, and advising. The recommendations would, however, give the EVP of Arts and Sciences more access when it comes to interacting with the College dean’s two main constituencies: students and alumni. For example, it recommends that both the College dean and the EVP make remarks at Convocation, Senior Day, and Class Day."
+          },
+          {
+            "type": "text",
+            "value": "These changes would be the first steps in addressing a problem long faced by the EVP—a lack of meaningful connection to a specific school community that eventually contributes to greater alumni giving. The report also proposes that the “existing offices of development within the Arts and Sciences and Columbia College be reorganized to serve both the college and the Arts and Sciences as a whole.”"
+          },
+          {
+            "type": "text",
+            "value": "“What would make our fundraising here better, but also what would make the distribution of the money we have now work to the advantage of everybody better?” Howard said."
+          },
+          {
+            "type": "text",
+            "value": "Although the task force could not technically compel the College’s most powerful alumni fundraising arms—the CCAA and the BOV—to invite the EVP to attend meetings along with the College dean, it recommends that the EVP attend them with the College dean. This has happened at times in the past, under the tenure of former EVP Nicholas Dirks from 2004 to 2012. The dean of the College and the EVP were expected to travel together to alumni events, and the leadership of the CCAA and the BOV were encouraged to make the EVP an ex-officio member as the dean of the College is."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50vw",
+              "asset": "hungerford.png",
+              "credit": "Columbia University"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“The vision for increased connection between Arts and Sciences leadership and alumni is very welcome,” Hungerford wrote in a statement to Spectator. “Faculty in Arts and Sciences are at the center of student academic experience as well as the overall research excellence of the college and the University. Having alumni and donors more closely connected to them and their work, to departments, and to the leadership of Arts and Sciences can only be to the good.”"
+          },
+          {
+            "type": "text",
+            "value": "The University’s alumni relations apparatus has maintained that the most successful fundraising happens when the EVP, the College dean and the University president are in agreement about how to go about it."
+          },
+          {
+            "type": "text",
+            "value": "Many College alumni groups, while open to interacting with the EVP in a greater capacity, say they would prefer it not happen at the expense of the College dean."
+          },
+          {
+            "type": "text",
+            "value": "“We are all for any enhancements to the COI and any improvements to increase the involvement of the faculty,” CCAA chair Michael Behringer, CC ’89, and CCAA president Ted Schweitzer, CC ’91, wrote in a statement to Spectator. “The alumni community, however, is very concerned and opposed to any changes that would diminish the power of the dean, which this proposal seems to do.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>“Curricular excellence”</b>"
+          },
+          {
+            "type": "text",
+            "value": "Although the five schools, 28 departments, and 40 institutes and centers in FAS mostly share resources, they each have their own, mostly independent curricular structures. The College and General Studies, for example, have their own joint Committee on Instruction, which is chaired by the deans of both schools and is responsible for approving new courses, majors, and academic policies, such as the decision to make classes pass/fail during the pandemic."
+          },
+          {
+            "type": "text",
+            "value": "On the other hand, GSAS, which shares faculty with the College and General Studies, has its own curricular decision-making body known as the GSAS Executive Committee. Barnard, which is not part of FAS but allows students to cross-register courses during enrollment, also has its own COI."
+          },
+          {
+            "type": "text",
+            "value": "The final report recommends the creation of a single Arts and Sciences Committee on Instruction composed of 12 faculty members, including a faculty chair; the deans of the College, GS, GSAS, and Arts and Sciences; and one representative each from Barnard and the School of Engineering and Applied Science. Student representatives from the College, GS, and GSAS would also be incorporated. The committee would take over the work of the curricular committees of the College, GS, and GSAS, while the Committee on the Core, Committee on Science Instruction, and Committee on the Global Core—which make curricular decisions specifically about the Core Curriculum—would maintain authority over their respective programs."
           },
           {
             "type": "graphic",
@@ -82,17 +252,209 @@
             }
           },
           {
-            "type": "graphic",
+            "type": "text",
+            "value": "The purpose of the new COI would be to “ensure the proper functioning and coordination of all elements of the curriculum, including general education, existing majors and degree programs, and graduate offerings within Arts and Sciences.”"
+          },
+          {
+            "type": "text",
+            "value": "Some who support the proposed changes say the current decentralization of authority can pose challenges in an organization built on shared resources, according to Kathryn Yatrakis, a faculty advisor, adjunct professor and a task force member. Yatrakis is the former dean of academic affairs of the College whose office managed the Committee on Instruction."
+          },
+          {
+            "type": "text",
+            "value": "“One of the things that I realized early on—now we’re talking the early ’90s—was, at that time, it was just College people who were there,” she said. “We needed representatives from Barnard, we needed someone from Engineering.”"
+          },
+          {
+            "type": "text",
+            "value": "One example of the decentralized structure complicating FAS’s administrative decisions is the stipend offered to faculty who teach Literature Humanities and Contemporary Civilization. The financial incentive pulls junior and newly tenured faculty away from graduate courses, according to Howard and other task force members, leaving those programs understaffed. While Howard called the stipend a “good idea”—because faculty members in the humanities are often paid less than those in other disciplines and Core courses have demanding schedules—she said the undergraduate-focused thinking in the current COI construction creates “unintended consequences” elsewhere in FAS, an assessment many task force members concurred with."
+          },
+          {
+            "type": "text",
+            "value": "“In the past, the way things have been operating, from what I understand, decision-making authority was siloed in a way,” Costis Maglaras, the dean of Business School and a task force member, said. “I believe that visibility and the new COI will hopefully start to bridge that gap. More is needed, but I think that’s a step in the right direction.”"
+          },
+          {
+            "type": "text",
+            "value": "Yatrakis said that when Moody-Adams became dean of the College in 2009, one of the first steps Moody-Adams took was to create greater curricular coordination among the undergraduate schools. She named the dean of General Studies as co-chair of the College COI, alongside herself."
+          },
+          {
+            "type": "text",
+            "value": "The need for greater collaboration was also recognized in the Task Force on Undergraduate Education’s 2009 <a href=\"http://senate.columbia.edu/archives/reports_archive/08-09/tfue_report_4-09.pdf\">report</a>, “An Agenda for the Future.” The principal recommendation of that report was the creation of the Educational Policy and Planning Committee, which the current task force recommendations would abolish and have the Arts and Sciences COI take over."
+          },
+          {
+            "type": "text",
+            "value": "The EPPC aims “to provide a structure for the coordination of existing bodies that manage curriculum … with those responsible for faculty planning,” a mission it has struggled to effectively carry out in the decade since its founding. The committee has suffered at times in the past from confusion about who sets and executes its agenda, according to Susan Pedersen, a history professor and the inaugural chair of the EPPC from 2012 to 2015, when the committee tackled issues including reviewing the Frontiers of Science curriculum and course renumbering."
+          },
+          {
+            "type": "text",
+            "value": "Some of the proposed changes, including a new system of course evaluations, came to fruition. Other items went nowhere, instead succeeding only in sucking up the committee’s time. Because the COIs for the individual schools seemed to be functioning well on their own, the EPPC’s work also seemed redundant, and the committee became more of a forum for inter-school faculty to raise curricular concerns. The concern about redundancy, which remains today, is addressed by the task force proposal to empower the Arts and Sciences COI to take over the work of the College, General Studies, and GSAS COIs."
+          },
+          {
+            "type": "text",
+            "value": "“Students should have access to all the resources of a research university,” Lean said. “The COI is really a mechanism by which innovation can occur.”"
+          },
+          {
+            "type": "text",
+            "value": "The Arts and Sciences COI also draws on the model of the Promotion and Tenure Committee, a faculty-led body that recommends candidates for tenure to the EVP of Arts and Sciences. Similarly, although the final report notes that the Arts and Sciences COI would be a “governance” committee with final say on “routine matters,” it recommends that any “large scale” or “significant” curriculum changes be brought to the faculty for “discussion and ratification,” with the dean of Arts and Sciences facilitating some discussions."
+          },
+          {
+            "type": "text",
+            "value": "“The increased faculty investment in shaping the curriculum recommended in the report will benefit students and the educational mission of the college, encouraging even deeper faculty investment in the key policies and choices that shape the undergraduate academic experience,”  Hungerford wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Supporters say greater centralization makes sense in an organization like FAS, which the report states has a responsibility to cater to a range of curricular needs “from Core classes for first-year undergraduates to seminars for advanced doctoral students.” Opponents say faculty are already at the center of academic decision-making in the current COI structure, just on a more school-specific basis, and that these changes would diminish the authority of the deans of the College, General Studies, and GSAS."
+          },
+          {
+            "type": "text",
+            "value": "David Lurie, an associate professor of Japanese history and literature and a GSAS Executive Committee member, said the recommendation he found most problematic on its face was the “centralization” of faculty involvement in the curriculum under bodies that are “fully appointed” by the EVP. He called the structure a “very corporate model.”"
+          },
+          {
+            "type": "text",
+            "value": "“I’m kind of shocked at how little work the report does to explain why these dramatic changes are necessary,” he said. “I don’t see a clear explanation of what is the problem this is trying to solve, and why these changes have suddenly become so urgent that they need to be rushed at the tail end of one president’s administration.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>The history</b>"
+          },
+          {
+            "type": "text",
+            "value": "No one wanted to talk about Moody-Adams’ resignation in 2011. Today, no one is all that eager to talk about Valentini’s sudden exit, either."
+          },
+          {
+            "type": "text",
+            "value": "Today’s circumstances are indicative of three failures. The first is the absence of an effective mediator between the dean of the College and the EVP, a role at least partially occupied by the provost or University president in past moments of polarization. Second, the Executive Committee—intended to serve as an institutional warning from the Moody-Adams years of the responsibilities that administrators have toward one another—has not succeeded in generating consensus among leaders. Third, personalities seem to have clashed in a way that exacerbates the first two issues."
+          },
+          {
+            "type": "text",
+            "value": "The history of friction between the EVP of Arts and Sciences and the College dean goes back much further than a decade. Before the creation of the role of the vice president of Arts and Sciences, before it  was elevated to “executive” vice president, the governing structure among the deans of the schools within FAS was not formally defined. The GSAS dean was in the greatest position of administrative authority by leading the powerful Planning and Budget Committee, a body that included all of the deans in FAS."
+          },
+          {
+            "type": "text",
+            "value": "When the vice president of Arts and Sciences position was created in 1982, the vice president took over the Planning and Budget Committee. The model seemed to work, as long as the vice president recognized both the authority they wielded over the committee and the responsibilities they had to meaningfully include its members. But by the 1990s, the involvement of deans in the committee was reduced to updates to the vice president. Despite being mandated by University statutes, meetings stopped altogether in 1995, destabilizing the recently-established FAS and its inter-school faculty. The failure of the Planning and Budget Committee contributed to the sense of confusion about who reports to whom—and what kinds of responsibilities come with that authority—that persist today."
+          },
+          {
+            "type": "text",
+            "value": "“The vice president of Arts and Sciences, since the ’90s, has had issues with the College dean,” Elaine Sisman, a music professor who has taught at Columbia since the creation of the vice president position, said."
+          },
+          {
+            "type": "text",
+            "value": "Sisman recalled a search committee for the College dean she served on in 1989, when a student came into a meeting “all upset,” asking the vice president at the time whether the creation of FAS meant the “destruction of the College.”"
+          },
+          {
+            "type": "text",
+            "value": "“The vice president of Arts and Sciences talked all around it in a way that satisfied [the student], but it was an eye opener for me,” she said. “It was also an education about the nature of Arts and Sciences, which for many years was only described as a ‘construct.’ It was just this overarching thing. It had force, obviously, and it had a vice president, but it didn’t infringe on the operations of its constituents—until it did.”"
+          },
+          {
+            "type": "text",
+            "value": "When former University President George Rupp, who was hired for the job in part because of his commitment to undergraduate education, became president in 1993, he immediately fired the College dean and attempted to merge the roles of the dean and the vice president of Arts and Sciences. That decision ultimately failed to satisfy both the College and those who thought of FAS in a more centralized way, and Rupp redivided the positions in 1995, hiring Austin Quigley as College dean. Tensions soon flared, leading Rupp in 1997 to publically fire Quigley and then reverse the decision the next day following alumni outcry."
+          },
+          {
+            "type": "text",
+            "value": "In 2011, Moody-Adams’ departure was spurred by the controversial “<a href=\"https://www.scribd.com/document/88994166/McKinsey-Project-Summary-Columbia-Arts-Sciences-Review\">McKinsey report</a>,” compiled at the <a href=\"https://web.archive.org/web/20120510005324/http://www.columbiaspectator.com/2011/08/23/consultants-recommendations-core-moody-adams-resignation\">request</a> of Bollinger and Dirks. It recommended a number of significant changes to the structure of FAS, all aimed at centralizing administrative power in the hands of the EVP of Arts and Sciences. In the wake of the report, Moody-Adams sent an email to a small group of College alumni, saying the changes outlined would amount to “structural transformations intended to fundamentally alter decision-making,” that would diminish the dean’s power over “crucial policy, fund-raising and budgetary matters.” Bollinger announced Moody-Adams’ resignation within a matter of days."
+          },
+          {
+            "type": "text",
+            "value": "Valentini’s departure was not quite as publicly hashed as Moody-Adams’. In late September, almost a month after announcing the creation of the task force on restructuring, Bollinger announced Valentini would be stepping down as dean, but did not give a reason for the decision. In a separate message to the Columbia community, sent hours after Bollinger’s, Valentini also failed to give a reason for his departure."
+          },
+          {
+            "type": "text",
+            "value": "However, the tense relationship that had developed between Valentini and his superiors has been made evident by a series of published emails from summer 2020 in which Valentini vehemently disagreed with Bollinger, Hungerford, and then-interim Provost Ira Katznelson on their suggestion to require non-tenure-track faculty to return in person for the fall semester."
+          },
+          {
+            "type": "image",
             "value": {
-              "asset": "documentshighlightededit.html"
+              "width": "50vw",
+              "asset": "deantini.png",
+              "credit": "Caitlin Buckley"
             }
+          },
+          {
+            "type": "text",
+            "value": "Bollinger in December appointed a search committee to find the next College dean. Similar to the last search committee for College dean, which appointed Valentini, it includes faculty, alumni, and students. But unlike the last one, it includes several senior administrators, including the provost, EVP of Arts and Sciences, the EVP for University Life, and Bollinger himself."
+          },
+          {
+            "type": "text",
+            "value": "In 2012, the Board of Trustees established the Executive Committee for Arts and Sciences to empower the deans of the College and GSAS and to revive the Planning and Budget Committee. The committee sets an annual budget for FAS and “make[s] decisions relating to major capital expenditures and allocations of positions for faculty searches.” As Valentini described it in 2012, it makes every “major decision that affects … the schools.”"
+          },
+          {
+            "type": "text",
+            "value": "Its goal was to position the EVP of Arts and Sciences and the deans of the College and GSAS “as equals in the establishment of the overall Arts & Sciences budget, accountable together for creating a financial framework that reflects the needs and limitations of the Arts & Sciences budget,” according to Krisberg’s dissent."
+          },
+          {
+            "type": "text",
+            "value": "But it is a body that has struggled to find consensus in recent years, as cooperation has given way to gridlock. When a disagreement arises, the EVP of Arts and Sciences “may make decisions” on behalf of the committee, but ultimately must inform the provost, who must “review” the decision. The establishment of the EC attempted what the current restructuring effort once again is straining to do—which is to generate structural consensus across FAS. It’s a tough ask in a cash-strapped environment where administrators often misunderstand their authority."
+          },
+          {
+            "type": "text",
+            "value": "Although the final report makes reference to the importance of an EC that works the way it is supposed to, it does not explain how to fix it."
+          },
+          {
+            "type": "text",
+            "value": "“Though the Summary makes reference to the importance of a functioning Executive Committee, the Task Force did not analyze why the Executive Committee has not worked as expected by those who created it,” Krisberg wrote in his dissent. “The Summary of Recommendation’s end run around the partnership of equals foundation created a decade ago is not based on a serious analysis.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>The future</b>"
+          },
+          {
+            "type": "text",
+            "value": "What happens next is unclear, even to Bollinger."
+          },
+          {
+            "type": "text",
+            "value": "“I’ve said the faculty would be able to give advice on this. But what does that mean practically? Do we separate out each recommendation? My own current view is it would be good to have a vote just in principle about just endorsing it or not endorsing it,” Bollinger said in an interview with Spectator. “But we’ll see.”"
+          },
+          {
+            "type": "text",
+            "value": "Some of the proposed changes, if they alter the roles and responsibilities of the EVP of Arts and Sciences and the dean of the College, would require changes in University statutes and the “stated rules” of FAS, the latter of which requires a two-thirds vote of faculty approval with over 50 percent participation."
+          },
+          {
+            "type": "text",
+            "value": "“You can do a number of things,” Howard said. “You could get a sense of the faculty on the whole document, you could get a sense of the faculty on parts. Those parts that require statutory change might have to come back for a formal vote and get the appropriate numbers.”"
+          },
+          {
+            "type": "text",
+            "value": "If the changes are approved, the final report recommends the creation of a new working group “with sufficient overlap” with the restructuring task force to conduct an assessment within the next three years to “ensure that any implemented measures are successful” and transparent. The task force also asked the Board of Trustees to create a subcommittee to “follow the progress of this proposal and provide support and guidance as needed.”"
+          },
+          {
+            "type": "text",
+            "value": "At the next faculty meeting in late April, the president and several volunteer task force members will present on the changes, and a few town halls will be held later."
+          },
+          {
+            "type": "text",
+            "value": "“There’s so much protection built around this document for reevaluating it and having it further discussed,” Howard said."
+          },
+          {
+            "type": "text",
+            "value": "Meanwhile, a committee led by Bollinger has already narrowed down candidates for Valentini’s successor—even as the job description of that person remains unclear."
+          },
+          {
+            "type": "text",
+            "value": "It all intersects with a moment of rare opportunity for FAS to gun for an investment from Bollinger’s successor as graduate enrollments decline nationwide and applications to Columbia’s undergraduate schools reach unprecedented highs. The future of the organization will depend on the priorities of the next president and the ability of leaders within FAS, whatever its structure, to get along and make a strong case."
+          },
+          {
+            "type": "text",
+            "value": "“I don’t want to go back into a defensive crouch. I don’t think that’s healthy,” Lean said. “It has to be done carefully, because, as I said, there’s a lot of anxiety.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Barnard President Sian Beilock, GSAS Dean Carlos Alonso, and former College Dean Michelle Moody-Adams did not respond to Spectator’s requests for comment. Lisa Rosen-Metsch, the dean of GS, declined to comment for this story. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Zach Schermele can be contacted at </i><a href=\"mailto:zachary.schermele@columbiaspectator.com\"><i>zachary.schermele@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/ZachSchermele\"><i>@ZachSchermele</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/androo_park\"><i>@androo_park</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
           }
         ],
-        "headline": "TK: Restructuring something",
-        "date": "April 18, 2022",
-        "byline": "By Zachary Schermele",
-        "cover_asset": "",
-        "cover_caption": "Photo by Annie Son",
+        "headline": "Restructuring Arts and Sciences: On his way out, Bollinger strains to fix a problem some say can only be managed",
+        "date": "April 26, 2022",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/zachary-schermele/\">Zachary Schermele</a>\nGraphics and design by <a href=\"https://www.columbiaspectator.com/contributors/andrew-park/\">Andrew Park</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/irie-sentner\">Irie Sentner</a>, <a href=\"https://www.columbiaspectator.com/contributors/dia-gill/\">Dia Gill</a> and <a href=\"https://www.columbiaspectator.com/contributors/clara-ence-morse\">Clara Ence Morse</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
